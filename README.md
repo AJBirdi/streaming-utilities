@@ -1,2 +1,2 @@
 # streaming-utilities
-Utilities to use for streaming services
+Utilities to use for music streaming services
